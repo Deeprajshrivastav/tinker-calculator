@@ -1,2 +1,2 @@
 # tinker-calculator
-a gui calculator in tkinter
+A simple gui calculator in tkinter. 
